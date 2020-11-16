@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    text-align: center;
+}
+.userInput {
+    display: flex;
+    justify-content: center;
+}
+.userInput input {
+    margin: 10px;
+    width: 400px;
+    height: 25px;
+}
+.userInput button {
+    margin: 10px;
+    width: 75px;
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+li {
+    padding: 5px;
+    font-size: 20px;
+}
